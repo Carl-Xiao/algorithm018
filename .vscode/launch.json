@@ -6,7 +6,7 @@
             "type": "go",
             "request": "launch",
             "mode": "debug",
-            "program": "D:\\algorithm018\\week01\\接雨水\\main.go",
+            "program": "D:\\golang\\algorithm018\\week04\\单词接龙\\main.go",
             "showLog": true
         }
     ]
